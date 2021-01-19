@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "925034842985",
+    "firebase_url": "https://fingerprintapp-979cc.firebaseio.com",
+    "project_id": "fingerprintapp-979cc",
+    "storage_bucket": "fingerprintapp-979cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925034842985:android:87e0472dc10620bd648bf8",
+        "android_client_info": {
+          "package_name": "com.strathmore.fingerprintapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925034842985-rkio95qtri81bn4ljdgnbbapljn7fhbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.strathmore.fingerprintapp",
+            "certificate_hash": "359fe4f5b85bd1711f7076ee795b4f5c0303a63b"
+          }
+        },
+        {
+          "client_id": "925034842985-uiapcqn7o15fnomk6k73993atl4qaijc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0jyntDsbsxvOtq2iPye3usSrtyFppdik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925034842985-uiapcqn7o15fnomk6k73993atl4qaijc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
